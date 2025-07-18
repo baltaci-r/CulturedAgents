@@ -2,7 +2,7 @@
 from setuptools import setup, find_packages
 
 requires = [
-    'pyautogen',
+    'ag2',
     'datasets',
     'pandas',
     'seaborn',
